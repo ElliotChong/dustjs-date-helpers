@@ -1,6 +1,6 @@
 {
   "name": "dustjs-date-helpers",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "author": "Elliot Chong",
   "description": "Sugar-based Date helper for the dustjs-linkedin package",
   "main": "./lib/dust-date-helpers",
